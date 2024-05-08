@@ -16,7 +16,7 @@ choose your own adventure game with interactive storylines
 ### SpanishTranslator
 text based user input to translate 
 
-![SpanishTranslator]()
+![SpanishTranslator](https://github.com/giannasanone/programming2portfolio/blob/main/images/spanishtranslator.png?raw=true)
 
 [Source Code](https://replit.com/@9720855/SpanishTranslator#main.py)
 
